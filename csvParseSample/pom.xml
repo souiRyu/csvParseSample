@@ -87,7 +87,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>kr.dja.csvParseSample.CSVParseSampleCore</mainClass>
+							<mainClass>com.naver.joojoo2035.csvParseSample.CSVParseSampleCore</mainClass>
 							<addClasspath>true</addClasspath>
 							<addExtensions>true</addExtensions>
 							<packageName>com.naver.joojoo2035.csvParseSample</packageName>
